@@ -1,5 +1,5 @@
 # Video segmentation
-Video segmentation from UNet
+Video segmentation from 2D UNet trained on images
 
 
 ### Visualization of Volumes
