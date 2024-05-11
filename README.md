@@ -1,3 +1,9 @@
 # Video segmentation
 Video segmentation from UNet
-![Alt Text](seq_1_gt_anime.gif)
+
+
+### Visualization of Volumes
+
+| Label Volume       | Predicted Volume |
+| ------------------ | ---------------- |
+| ![Label Volume](seq_1_gt_anime.gif?raw=true) | ![Predicted Volume](seq_1_gt_anime.gif?raw=true) |
