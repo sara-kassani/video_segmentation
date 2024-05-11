@@ -1,2 +1,2 @@
-# video_segmentation
+# Video segmentation
 Video segmentation from UNet
